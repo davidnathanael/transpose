@@ -3,4 +3,8 @@ Really simple program in C to transpose chords. Made when I was bored in the air
 
 Usage :
 
-./transpose <orig key> <dest key> <chords...>
+./transpose orig-key dest-key chords...
+
+Example :
+
+./transpose G E G Em C D
